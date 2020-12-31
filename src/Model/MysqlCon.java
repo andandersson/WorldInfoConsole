@@ -6,7 +6,6 @@ import java.sql.*;
  * and transfer information
  */
 
- //this is from https://www.javatpoint.com/example-to-connect-to-the-mysql-database
 public class MysqlCon {
 	
 	   static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
