@@ -1,3 +1,8 @@
 This project requires that you have MySQL installed on Your computer.
 It also requires that you are making an own database with the
-added database-file.
+added database-file, and your own username and password.
+
+It is a console with different information about the world.
+When choosing "City", you get a list of all cities in the world, combined with name, countrycode, etc.
+If you choose "country", you get all countries in the world, if choosing "countrylanguages", you get all country
+languages in the world.
